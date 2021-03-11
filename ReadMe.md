@@ -9,3 +9,11 @@
 <li>Giúp nhóm phát triển kỹ năng lập trình web. </li>
 <li>Giúp áp dụng kiến thức được học trong môn CNPM</li>
 </ul>
+<ul>
+  <li>Nhóm người dùng
+    <ul>
+      <li>Học Sinh THPT</li>
+      <li>Giáo Viên </li>
+    </ul>
+  </li>
+</ul>
