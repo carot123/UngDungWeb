@@ -11,6 +11,7 @@
       <li>Giúp nhóm phát triển kỹ năng lập trình web.  </li>
       <li>Giúp áp dụng kiến thức được học trong môn CNPM</li>
 	  <li>ABC....</li>
+	  <li>ABC....</li>
     </ul>
   </li>
 </ul>
